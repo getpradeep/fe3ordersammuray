@@ -108,9 +108,10 @@ a.cancel-btn{
   font-weight: 900;
   transition: color .3s ease;
   text-align: center;
-  padding-left: 165px;
-  padding-bottom: : 50px;
+}
 
+.cancel{
+  text-align:center;
 }
 
 a.cancel-btn:hover{
